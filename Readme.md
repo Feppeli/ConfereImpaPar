@@ -6,16 +6,16 @@ Este é um programa que fiz dentro de uma hora após o estudo sobre manipulaçã
 
 O programa ainda se encontra sem a parte responsiva, mas é algo que pode ser encontrado em outros códigoos do meu Github, pois a parte visual não era o foco no momento
 
-#### Funcionalidades :
+## Funcionalidades :
 - Confere se os números são **Pares** ou **Impares**.
 - Confere se os números fazem parte do grupo dos **Positivos** ou **Negativos**
 
-#### Tecnologias: :computer:
+## Tecnologias: :computer:
 - Javascript
 - Css
 - HTML
 
-#### Utilitários:
+## Utilitários:
 
 - Google Fontes
 
