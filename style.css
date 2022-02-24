@@ -1,0 +1,71 @@
+.color1 {color: #171900;}
+.color2 {color: #204b27;}
+.color3 {color: #fa6e00;}
+.color4 {color: #ffd133;}
+.color5 {color: #ffff92;}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #171900;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+#txt {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: #fff;
+    margin-top: 10vh;
+    font-size: medium;
+    font-style: normal;
+    font-weight: 400;
+}
+h6{
+    font-size: 18px;
+}
+
+main {
+    padding: 30px;
+    background: #204b27;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    margin: 20vh;
+}
+
+input{
+    text-align: center;
+    border-radius: 5px;
+    background: #fff;
+    padding: 3vh 12vh;
+
+}
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+
+button {
+    background-color: #fff;
+    border-radius: 5px;
+    margin: 2vh;
+    padding: 2vh 5vh;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #ffff92;
+    transition: 0.6s;
+}
+
